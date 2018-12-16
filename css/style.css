@@ -1,0 +1,38 @@
+body {
+  margin: 0; }
+
+h1, p {
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  margin: 10px; }
+
+h1 {
+  font-size: 25px;
+  font-weight: 600;
+  margin: 10px; }
+
+span {
+  font-weight: 600; }
+
+.text {
+  margin: 150px 0; }
+  .text img {
+    width: 100%; }
+
+.menu a {
+  text-decoration: none; }
+  .menu a h1 {
+    margin: 30px 0;
+    color: #111;
+    font-size: 16px; }
+
+.menu-fixed {
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  background-color: #111; }
+  .menu-fixed a {
+    text-decoration: none; }
+    .menu-fixed a h1 {
+      padding: 10px 0;
+      color: #fff; }
